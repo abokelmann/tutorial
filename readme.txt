@@ -5,4 +5,4 @@ Noch eine Änderung im Feature Branch
 
 Änderung für rebase
 Noch was für rebase
-Was zur Hölle ist hier passiert?
+Ich möchte einen einzelnen commit aus dem master ziehen
